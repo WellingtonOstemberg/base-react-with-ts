@@ -58,6 +58,11 @@ export const Header = () => {
                       Mais bem avaliados
                     </Link>
                   </li>
+                  <li>
+                    <Link className="dropdown-item" to="/movies/popular">
+                      Mais Populares
+                    </Link>
+                  </li>
                 </ul>
               </li>
             </ul>
